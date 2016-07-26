@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/keywords"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "keywords.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

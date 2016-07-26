@@ -1,11 +1,11 @@
 {
   "request": {
     "method": "GET",
-    "url": "/about"
+    "url": "/sentences"
   },
   "response": {
     "status": 200,
-    "bodyFileName": "about.json",
+    "bodyFileName": "sentences.json",
     "headers": {
       "Content-Type": "application/json"
     }

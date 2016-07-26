@@ -1,0 +1,17 @@
+{
+	"file": "http://localhost/sounds/sentences.ogg",
+	"sprintemap": {
+		"people": {
+			"start": 5.3,
+			"end": 5.8,
+			"text": "PEOPLE",
+			"hint": "people_like_apple"
+		},
+		"people_like_apple": {
+			"start": 5.8,
+			"end": 10,
+			"text": "\"PEOPLE\" like \"APPLE\"",
+			"hint": ""
+		}
+	}
+}
